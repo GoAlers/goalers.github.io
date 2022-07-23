@@ -27,7 +27,7 @@ parser.add_argument('--arch', '-a', metavar='ARCH', default='vgg19',
                     help='model architecture: ' + ' | '.join(model_names) +
                     ' (default: vgg19)')
 parser.add_argument('-j', '--workers', default=4, type=int, metavar='N',
-                    help='number of data loading workers (default: 4)')
+                    help='number of demo_data loading workers (default: 4)')
 parser.add_argument('--epochs', default=300, type=int, metavar='N',
                     help='number of total epochs to run')
 parser.add_argument('--start-epoch', default=0, type=int, metavar='N',
@@ -166,7 +166,7 @@ def train(train_loader, model, criterion, optimizer, epoch):
     end = time.time()
     for i, (input, target) in enumerate(train_loader):
 
-        # measure data loading time
+        # measure demo_data loading time
         data_time.update(time.time() - end)
 
         if args.cpu == False:

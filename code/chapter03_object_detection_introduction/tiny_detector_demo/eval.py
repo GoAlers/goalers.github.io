@@ -22,7 +22,7 @@ model = model.to(device)
 # Switch to eval mode
 model.eval()
 
-# Load test data
+# Load test demo_data
 test_dataset = PascalVOCDataset(data_folder,
                                 split='test',
                                 keep_difficult=keep_difficult)
@@ -34,7 +34,7 @@ def evaluate(test_loader, model):
     """
     Evaluate.
 
-    :param test_loader: DataLoader for test data
+    :param test_loader: DataLoader for test demo_data
     :param model: model
     """
 

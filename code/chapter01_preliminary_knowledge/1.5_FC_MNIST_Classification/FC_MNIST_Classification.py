@@ -38,8 +38,8 @@ class Net(nn.Module):
 net = Net()
 
 # 准备数据集
-train_set = mnist.MNIST('./data', train=True, transform=transforms.ToTensor(), download=True)
-test_set = mnist.MNIST('./data', train=False, transform=transforms.ToTensor(), download=True)
+train_set = mnist.MNIST('./demo_data', train=True, transform=transforms.ToTensor(), download=True)
+test_set = mnist.MNIST('./demo_data', train=False, transform=transforms.ToTensor(), download=True)
 train_data = DataLoader(train_set, batch_size=64, shuffle=True)
 test_data = DataLoader(test_set, batch_size=128, shuffle=False)
 

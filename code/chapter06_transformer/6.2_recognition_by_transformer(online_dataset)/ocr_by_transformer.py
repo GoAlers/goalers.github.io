@@ -258,7 +258,7 @@ def greedy_decode(model, src, src_mask, max_len, start_symbol, end_symbol):
         next_word = int(next_word)
         if next_word == end_symbol:
             break
-        #ys = torch.cat([ys, torch.ones(1, 1).type_as(src.data).fill_(next_word)], dim=1)
+        #ys = torch.cat([ys, torch.ones(1, 1).type_as(src.demo_data).fill_(next_word)], dim=1)
     ys = ys[0, 1:]
     return ys
 
@@ -284,7 +284,7 @@ if __name__ == "__main__":
     gas = GAS(KEY)
     # 在线获取数据集
     dataset_online = Dataset("ICDAR2015", gas)
-    dataset_online.enable_cache('./data')  # 数据本地缓存
+    dataset_online.enable_cache('./demo_data')  # 数据本地缓存
 
     # 在线获取训练集和验证集
     train_data_online = dataset_online["train"]

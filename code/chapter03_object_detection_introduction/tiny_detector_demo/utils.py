@@ -64,10 +64,10 @@ def create_data_lists(voc07_path, voc12_path, output_folder):
     train_objects = list()
     n_objects = 0
 
-    # Training data
+    # Training demo_data
     for path in [voc07_path, voc12_path]:
 
-        # Find IDs of images in training data
+        # Find IDs of images in training demo_data
         with open(os.path.join(path, 'ImageSets/Main/trainval.txt')) as f:
             ids = f.read().splitlines()
 
@@ -93,12 +93,12 @@ def create_data_lists(voc07_path, voc12_path, output_folder):
     print('\nThere are %d training images containing a total of %d objects. Files have been saved to %s.' % (
         len(train_images), n_objects, os.path.abspath(output_folder)))
 
-    # Test data
+    # Test demo_data
     test_images = list()
     test_objects = list()
     n_objects = 0
 
-    # Find IDs of images in the test data
+    # Find IDs of images in the test demo_data
     with open(os.path.join(voc07_path, 'ImageSets/Main/test.txt')) as f:
         ids = f.read().splitlines()
 
@@ -578,7 +578,7 @@ def transform(image, boxes, labels, difficulties, split):
     """
     assert split in {'TRAIN', 'TEST'}
 
-    # Mean and standard deviation of ImageNet data that our base VGG from torchvision was trained on
+    # Mean and standard deviation of ImageNet demo_data that our base VGG from torchvision was trained on
     # see: https://pytorch.org/docs/stable/torchvision/models.html
     mean = [0.485, 0.456, 0.406]
     std = [0.229, 0.224, 0.225]
@@ -596,7 +596,7 @@ def transform(image, boxes, labels, difficulties, split):
         new_image = FT.to_tensor(new_image)
 
         # Expand image (zoom out) with a 50% chance - helpful for training detection of small objects
-        # Fill surrounding space with the mean of ImageNet data that our base VGG was trained on
+        # Fill surrounding space with the mean of ImageNet demo_data that our base VGG was trained on
         if random.random() < 0.5:
             new_image, new_boxes = expand(new_image, boxes, filler=mean)
 
@@ -617,7 +617,7 @@ def transform(image, boxes, labels, difficulties, split):
     # Convert PIL image to Torch tensor
     new_image = FT.to_tensor(new_image)
 
-    # Normalize by mean and standard deviation of ImageNet data that our base VGG was trained on
+    # Normalize by mean and standard deviation of ImageNet demo_data that our base VGG was trained on
     new_image = FT.normalize(new_image, mean=mean, std=std)
 
     return new_image, new_boxes, new_labels, new_difficulties

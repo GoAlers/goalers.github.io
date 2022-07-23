@@ -24,7 +24,7 @@ from transformer import make_model, subsequent_mask
 
 
 class Batch:
-    "Object for holding a batch of data with mask during training."
+    "Object for holding a batch of demo_data with mask during training."
     def __init__(self, src, trg=None, pad=0):
         self.src = src
         self.src_mask = (src != pad).unsqueeze(-2)
@@ -49,7 +49,7 @@ class Batch:
 # Synthetic Data
 def data_gen(V, slen, batch, nbatches, device):
     """
-    Generate random data for a src-tgt copy task.
+    Generate random demo_data for a src-tgt copy task.
     V: 词典数量，取值范围[0, V-1]，约定0作为特殊符号使用代表padding
     slen: 生成的序列数据的长度
     batch: batch_size
@@ -57,10 +57,10 @@ def data_gen(V, slen, batch, nbatches, device):
     """
     for i in range(nbatches):
 
-        #data = torch.from_numpy(np.random.randint(1, V, size=(batch, slen)))
-        #data[:, 0] = 1
-        #src = Variable(data, requires_grad=False)
-        #tgt = Variable(data, requires_grad=False)
+        #demo_data = torch.from_numpy(np.random.randint(1, V, size=(batch, slen)))
+        #demo_data[:, 0] = 1
+        #src = Variable(demo_data, requires_grad=False)
+        #tgt = Variable(demo_data, requires_grad=False)
 
         data = torch.from_numpy(np.random.randint(2, V, size=(batch, slen)))
         # 约定输出为输入除去序列第一个元素，即向后平移一位进行输出，同时输出数据要在第一个时间步添加一个起始符

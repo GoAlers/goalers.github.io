@@ -67,7 +67,7 @@ if __name__ == "__main__":
     gas = GAS(KEY)
     # Get a dataset. 在线获取数据集
     dataset = Dataset("ICDAR2015", gas)
-    dataset.enable_cache('./data')  # 数据缓存地址
+    dataset.enable_cache('./demo_data')  # 数据缓存地址
 
     # 获取训练集和验证集
     train_segment = dataset["train"]

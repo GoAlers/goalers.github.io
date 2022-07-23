@@ -840,7 +840,7 @@ class SimpleLossCompute:
         if self.opt is not None:
             self.opt.step()
             self.opt.optimizer.zero_grad()
-        #return loss.data[0] * norm 
+        #return loss.demo_data[0] * norm 
         return loss.item() * norm
 ```
 
@@ -936,7 +936,7 @@ def greedy_decode(model, src, src_mask, max_len, start_symbol, end_symbol):
         next_word = int(next_word)
         if next_word == end_symbol:
             break
-        #ys = torch.cat([ys, torch.ones(1, 1).type_as(src.data).fill_(next_word)], dim=1)
+        #ys = torch.cat([ys, torch.ones(1, 1).type_as(src.demo_data).fill_(next_word)], dim=1)
     ys = ys[0, 1:]
     return ys
 

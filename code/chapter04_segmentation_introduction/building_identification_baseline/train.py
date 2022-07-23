@@ -139,9 +139,9 @@ def get_args():
     parser.add_option('-s', '--model_save_dir', dest='model_save_dir',
                       default='checkpoint', help='directory to save checkpoint')
     parser.add_option('-i', '--image', dest='image_dir',
-                      default='./data/train', help='directory of train image')
+                      default='./demo_data/train', help='directory of train image')
     parser.add_option('-m', '--anno', dest='anno_path',
-                      default='./data/train_mask.csv', help='train mask anno path')
+                      default='./demo_data/train_mask.csv', help='train mask anno path')
     parser.add_option('-e', '--epochs', dest='epochs', default=30, type='int',
                       help='number of epochs')
     parser.add_option('-b', '--bs', dest='batch_size', default=8,

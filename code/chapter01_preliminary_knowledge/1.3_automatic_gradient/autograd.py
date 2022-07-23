@@ -63,7 +63,7 @@ print(y3, y3.requires_grad)  # True
 y3.backward()
 print(x.grad)
 
-#此外，如果我们想要修改`tensor`的数值，但是又不希望被`autograd`记录（即不会影响反向传播），那么我么可以对`tensor.data`进行操作。
+#此外，如果我们想要修改`tensor`的数值，但是又不希望被`autograd`记录（即不会影响反向传播），那么我么可以对`tensor.demo_data`进行操作。
 x = torch.ones(1,requires_grad=True)
 print(x.data) # 还是一个tensor
 print(x.data.requires_grad) # 但是已经是独立于计算图之外

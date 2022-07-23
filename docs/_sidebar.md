@@ -1,15 +1,26 @@
+* 大数据
+  * [大数据系列笔记](https://blog.csdn.net/qq_36816848/category_10847000.html)
+  * [大数据项目实战](https://blog.csdn.net/qq_36816848/category_11274508.html)
+  * [数据分析与挖掘](https://blog.csdn.net/qq_36816848/category_10976756.html)
 * 深度学习
-    * [CV知识](md/cv.md)
-    * [深度学习网络模型介绍](md/model.md)
+    * [机器学习资料](https://blog.csdn.net/qq_36816848/category_10846122.html)
+    * [深度学习笔记](https://blog.csdn.net/qq_36816848/category_11053032.html)
+    * [深度资料合集](https://blog.csdn.net/qq_36816848/article/details/125829496)
+    * [Pytorch系列](https://blog.csdn.net/qq_36816848/category_11477132.html)
+    * [计算机视觉模型](md/cv.md)
+    * [深度学习网络模型](md/model.md)
 * 文字识别
-    * [OCR](md/OCR.md)
+    * [OCR综述合集](md/OCR.md)
     * [CRNN](md/CRNN.md)
     * [Attention](md/Attention.md)
     * [Transformer](md/Transformer.md)
-    * [04_GPIO_IN_OUT](md/04_GPIO_IN_OUT.md)
-    * [05_Task](md/05_Task.md)
-    * [06_GPIO_INTR](md/06_GPIO_INTR.md)
-* 动手学CV
+* 推荐系统
+    * [推荐算法理论](https://blog.csdn.net/qq_36816848/category_10770781.html)
+    * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)
+    * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)
+    * [新闻推荐系统合集](https://blog.csdn.net/qq_36816848/article/details/121941803)
+
+* 动手学CV系列
     * 第一章：预备知识
     * - [1.1 深度学习环境配置](chapter01_preliminary_knowledge/1.1_environment_install/README.md)
         - [1.2 Pytorch基础使用介绍](chapter01_preliminary_knowledge/1.2_pytorch_basic_usage_introduction/README.md)
@@ -33,7 +44,6 @@
         - [3.5 损失函数](chapter03_object_detection_introduction/3_5.md)
         - [3.6 训练与测试](chapter03_object_detection_introduction/3_6.md)
     * 第四章: 图像分割入门
-        - 推进中...
     * 第五章: 生成式对抗网络入门
         - [前言](chapter05_gan/introduction.md)
         - [5.1 初识生成对抗网络](chapter05_gan/5_1.md)

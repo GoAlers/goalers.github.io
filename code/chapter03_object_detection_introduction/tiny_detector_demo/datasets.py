@@ -13,7 +13,7 @@ class PascalVOCDataset(Dataset):
 
     def __init__(self, data_folder, split, keep_difficult=False):
         """
-        :param data_folder: folder where data files are stored
+        :param data_folder: folder where demo_data files are stored
         :param split: split, one of 'TRAIN' or 'TEST'
         :param keep_difficult: keep or discard objects that are considered difficult to detect?
         """
@@ -24,7 +24,7 @@ class PascalVOCDataset(Dataset):
         self.data_folder = data_folder
         self.keep_difficult = keep_difficult
 
-        # Read data files
+        # Read demo_data files
         with open(os.path.join(data_folder, self.split + '_images.json'), 'r') as j:
             self.images = json.load(j)
         with open(os.path.join(data_folder, self.split + '_objects.json'), 'r') as j:
