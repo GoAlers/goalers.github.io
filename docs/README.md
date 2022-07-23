@@ -1,25 +1,51 @@
 # GoAI的学习笔记
 
-> **本页介绍：**主页记录本人学习过程中的优秀资料总结。
+> **主页介绍：**本站主要分享学习过程中遇到的优秀资料，内容为大数据与人工智能方向，具体总结内容可通过左边目录访问，欢迎各位大佬指点。
 >
-> **笔记在线阅读地址：**[https://goalers.github.io/#/](https://goalers.github.io/#/)
+> *笔记在线阅读地址*：[https://goalers.github.io/#/](https://goalers.github.io/#/)
 
-* 作者主页
+### 作者主页
   * [CSDN](https://blog.csdn.net/qq_36816848)
-  * [个人主页](https://www.gaohongwei.cn)
+  * [个人主页](http://www.gaohongwei.cn)
   * [Github](https://blog.csdn.net/mark_md/category_10794878.html)
-  * [知乎](https://blog.csdn.net/mark_md/category_11477137.html)
-  
-* 源码&资料
-  * [公众号：GoAI的学习小屋]()
-  * [大数据笔记](https://blog.csdn.net/qq_36816848/category_10847000.html)
-  * [大数据项目](https://blog.csdn.net/qq_36816848/category_11274508.html)
-  * [机器学习资料](https://blog.csdn.net/qq_36816848/category_10846122.html)
-  * [深度学习资料](https://blog.csdn.net/qq_36816848/category_11053032.html)
+  * [知乎](https://www.zhihu.com/people/GoAI)
+  * 公众号:GoAI的学习小屋
+
+---
+### 学习资料目录
+* 1.大数据                                                                            
+  * [大数据开发笔记](https://blog.csdn.net/qq_36816848/article/details/113767367)       
+  * [Hadoop系列综合](https://blog.csdn.net/qq_36816848/category_10847000.html)       
+  * [大数据项目实战](https://blog.csdn.net/qq_36816848/category_11274508.html)          
+  * [数据分析与挖掘](https://blog.csdn.net/qq_36816848/category_10976756.html)          
+* 2.深度学习                                                                           
+    * [机器学习资料](https://blog.csdn.net/qq_36816848/category_10846122.html)         
+    * [深度学习笔记](https://blog.csdn.net/qq_36816848/category_11053032.html)         
+    * [深度资料合集](https://blog.csdn.net/qq_36816848/article/details/125829496)      
+    * [Pytorch系列](https://blog.csdn.net/qq_36816848/category_11477132.html)      
+    * [Opencv系列](https://blog.csdn.net/qq_36816848/article/details/123805173)    
+    * [计算机视觉模型](md/cv.md)                                                        
+    * [深度学习网络模型](md/model.md)                                                    
+* 3.文字识别                                                                           
+    * [OCR文字识别技术系列第一章](https://blog.csdn.net/qq_36816848/article/details/12390856)
+    * [OCR文字识别技术系列第二章](https://blog.csdn.net/qq_36816848/article/details/12394341)
+    * [OCR文字识别技术系列第三章](https://blog.csdn.net/qq_36816848/article/details/12395907)
+    * [OCR文字识别技术系列第四章](https://blog.csdn.net/qq_36816848/article/details/12405580)
+    * [OCR文字识别技术系列第五章](https://blog.csdn.net/qq_36816848/article/details/12413149)
+    * [OCR方法综述合集](https://blog.csdn.net/qq_36816848/article/details/125615331)   
+    * [OCR论文详解合集](https://blog.csdn.net/qq_36816848/article/details/125126563)   
+    * [CRNN](https://blog.csdn.net/qq_36816848/article/details/121723891)        
+    * [Attention](https://blog.csdn.net/qq_36816848/article/details/122743693)   
+    * [Transformer](https://blog.csdn.net/qq_36816848/article/details/123177970) 
+* 4.推荐系统                                                                           
+    * [推荐算法理论](https://blog.csdn.net/qq_36816848/category_10770781.html)         
+    * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)       
+    * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)    
+    * [新闻推荐系统合集](https://blog.csdn.net/qq_36816848/article/details/121941803)    
 ---
 >
 >
-> ### 一、大数据开发笔记系列：
+* 大数据入门笔记系列：
 >
 > [大数据开发面试知识点总结](https://blog.csdn.net/qq_36816848/article/details/113767367)
 >
@@ -49,13 +75,13 @@
 >
 > [大数据开发笔记（十）：Hbase实践](https://blog.csdn.net/qq_36816848/article/details/112862238)
 >
-> #### 大数据其他笔记：
+* 大数据其他笔记：
 >
 > [Hadoop常见端口总结](https://blog.csdn.net/qq_36816848/article/details/113106441)
 >
 > [大数据常见运维问题汇总](https://blog.csdn.net/qq_36816848/article/details/114897825)
 >
-> ### 二、零基础入门深度学习系列：
+* 零基础入门深度学习系列：
 >
 > [零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
 >
@@ -71,68 +97,6 @@
 >
 > [零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 >
-> ### 三、经典论文阅读系列：
->
-> #### 经典网络模型：
->
-> - AlexNet  
->   [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
->   [中文版](http://noahsnail.com/2017/07/18/2017-07-18-AlexNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/07/04/2017-07-04-AlexNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91/)
-> - VGG  
->   [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
->   [中文版](http://noahsnail.com/2017/08/17/2017-08-17-VGG%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/08/17/2017-08-17-VGG%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
-> - ResNet  
->   [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
->   [中文版](http://noahsnail.com/2017/07/31/2017-07-31-ResNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/07/31/2017-07-31-ResNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
-> - GoogLeNet  
->   [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842)
->   [中文版](http://noahsnail.com/2017/07/21/2017-07-21-GoogleNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/07/21/2017-07-21-GoogleNet%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
-> - BN-GoogLeNet  
->   [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
->   [中文版](http://noahsnail.com/2017/09/04/2017-09-04-Batch%20Normalization%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/09/04/2017-09-04-Batch%20Normalization%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
-> - Inception-v3  
->   [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567)
->   [中文版](http://noahsnail.com/2017/10/09/2017-10-09-Inception-V3%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/10/09/2017-10-09-Inception-V3%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
-> - SENet  
->   [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
->   [中文版](http://noahsnail.com/2017/11/20/2017-11-20-Squeeze-and-Excitation%20Networks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
->   [中英文对照](http://noahsnail.com/2017/11/20/2017-11-20-Squeeze-and-Excitation%20Networks%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7/)
->
-> #### 文字识别方向
->
-> #### CRNN
->
-> ​	CRNN论文下载： 
->
-> [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://arxiv.org/pdf/1507.05717v1.pdf)
->
-> ​	CRNN论文翻译：
->
-> ​	[CRNN论文翻译——中英文对照](https://blog.csdn.net/Quincuntial/article/details/77679419)
->
-> #### ASTER
->
-> ​	论文解读：
->
-> https://www.cnblogs.com/lillylin/p/9315180.html#xiangbaipami2018aster_an-attentional-scene-text-recognizer-with-flexible-rectification
->
-> ​    模型介绍总结：
->
-> https://blog.csdn.net/qq_36816848/article/details/123014991?spm=1001.2014.3001.5501
->
-> ### 四、推荐方向
->
-> ### 五、数据分析方向
->
-> 未完待续！！！！！！！！
-
-
 
 
 
