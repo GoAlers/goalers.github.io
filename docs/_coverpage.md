@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![1_qq_36816848_1611117817](C:\Users\Gaohongwei\Pictures\图片\1_qq_36816848_1611117817.jpg)
+![图片](./md/1.jpg)
 
 # GoAI的学习小屋<small>1.0</small>
 
