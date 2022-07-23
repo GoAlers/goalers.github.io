@@ -12,7 +12,8 @@
 * [个人主页](http://www.gaohongwei.cn)
 * [Github](https://github.com/GoAlers)
 * [知乎](https://www.zhihu.com/people/GoAI)
-* 公众号 : GoAI的学习小屋 (若有学习问题可关注扫码加微信)
+* 公众号 : GoAI的学习小屋 
+-- 【若有学习问题或其他需求可关注扫码加微信】
 
 ![图片](./md/2.jpg)
 
