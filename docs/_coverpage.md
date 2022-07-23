@@ -6,7 +6,7 @@
 
 > 专注分享大数据与人工智能知识，欢迎访问。
 
-- [CSDN](https://github.com/docsifyjs/docsify/)
+- [CSDN](https://blog.csdn.net/qq_36816848)
 - [知乎](https://www.zhihu.com/people/GoAI)
 
 
