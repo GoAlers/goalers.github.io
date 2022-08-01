@@ -11,23 +11,10 @@
     * [Opencv系列](https://blog.csdn.net/qq_36816848/article/details/123805173)
     * [计算机视觉模型](md/cv.md)
     * [深度学习网络模型](md/model.md)
-* 文字识别
-    * [OCR文字识别技术系列第一章](https://blog.csdn.net/qq_36816848/article/details/123908569)
-    * [OCR文字识别技术系列第二章](https://blog.csdn.net/qq_36816848/article/details/123943419)
-    * [OCR文字识别技术系列第三章](https://blog.csdn.net/qq_36816848/article/details/123959079)
-    * [OCR文字识别技术系列第四章](https://blog.csdn.net/qq_36816848/article/details/124055805)
-    * [OCR文字识别技术系列第五章](https://blog.csdn.net/qq_36816848/article/details/124131497)
-    * [OCR方法综述合集](https://blog.csdn.net/qq_36816848/article/details/125615331)
-    * [OCR论文详解合集](https://blog.csdn.net/qq_36816848/article/details/125126563)
-    * [CRNN](https://blog.csdn.net/qq_36816848/article/details/121723891)
-    * [Attention](https://blog.csdn.net/qq_36816848/article/details/122743693)
-    * [Transformer](https://blog.csdn.net/qq_36816848/article/details/123177970)
-* 推荐系统
-    * [推荐算法理论](https://blog.csdn.net/qq_36816848/category_10770781.html)
-    * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)
-    * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)
-    * [新闻推荐系统合集](https://blog.csdn.net/qq_36816848/article/details/121941803)
-
+* 计算机视觉
+    * [Opencv](https://blog.csdn.net/qq_36816848/article/details/123805173)
+    * [计算机视觉资料合集](https://blog.csdn.net/qq_36816848/article/details/125829496)
+    * [计算机视觉知识点总结](https://zhuanlan.zhihu.com/p/58776542)
 * 动手学CV系列
     * 第一章：预备知识
         - [1.1 深度学习环境配置](chapter01_preliminary_knowledge/1.1_environment_install/README.md)
@@ -62,10 +49,35 @@
         - [6.1 Hello Transformer](chapter06_transformer/6_1_hello_transformer.md)
         - [6.2 OCR by Transformer](chapter06_transformer/6_2_ocr_by_transformer.md)
 
+* 文字识别
+    * [OCR文字识别技术系列第一章](https://blog.csdn.net/qq_36816848/article/details/123908569)
+    * [OCR文字识别技术系列第二章](https://blog.csdn.net/qq_36816848/article/details/123943419)
+    * [OCR文字识别技术系列第三章](https://blog.csdn.net/qq_36816848/article/details/123959079)
+    * [OCR文字识别技术系列第四章](https://blog.csdn.net/qq_36816848/article/details/124055805)
+    * [OCR文字识别技术系列第五章](https://blog.csdn.net/qq_36816848/article/details/124131497)
+    * [OCR方法综述合集](https://blog.csdn.net/qq_36816848/article/details/125615331)
+    * [OCR论文详解合集](https://blog.csdn.net/qq_36816848/article/details/125126563)
+    * [CRNN](https://blog.csdn.net/qq_36816848/article/details/121723891)
+    * [ASTER](https://blog.csdn.net/qq_36816848/article/details/123014991)
+    * [Attention](https://blog.csdn.net/qq_36816848/article/details/122743693)
+    * [Transformer](https://blog.csdn.net/qq_36816848/article/details/123177970)
+* 推荐系统
+    * [推荐算法理论](https://blog.csdn.net/qq_36816848/category_10770781.html)
+    * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)
+    * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)
+    * [新闻推荐系统合集](https://blog.csdn.net/qq_36816848/article/details/121941803)
+* 算法相关
+    * 算法岗工作总结 [github](https://zhuanlan.zhihu.com/p/95922161)
+    * 人工智能实战面试学习路线图  [Ai-Learn](https://github.com/tangyudi/Ai-Learn)
+    * 深度学习500问  [github](https://github.com/scutan90/DeepLearning-500-questions)
+    * 深度学习无限问  [github](https://github.com/yoyoyo-yo/DeepLearningMugenKnock)
+    * 算法工程师技术路线图   [link](https://zhuanlan.zhihu.com/p/192633890?utm_source=wechatTimeline_article_bottom&from=timeline)
 * 求职面试
     * [大数据面试求职经验总结](https://blog.csdn.net/qq_36816848/article/details/120157651)
     * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)
     * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)
+    * [百面机器学习](https://www.cnblogs.com/hellojamest/p/11184135.html)
+ 
  
 
 

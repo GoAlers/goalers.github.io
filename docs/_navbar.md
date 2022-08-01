@@ -1,7 +1,7 @@
 * [首页](https://goalers.github.io/#/)
 * 作者主页
   * [CSDN](https://blog.csdn.net/qq_36816848)
-  * [个人网站](https://www.gaohongwei.cn)
+  * [个人网站](http://www.gaohongwei.cn)
   * [Github](https://blog.csdn.net/mark_md/category_10794878.html)
   * [知乎](https://blog.csdn.net/mark_md/category_11477137.html)
   * [公众号：GoAI的学习小屋]()
