@@ -6,7 +6,9 @@
 
 ## 🆙作者主页
 
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
+![图片](./md/ide.png)
+
+ <!--- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>-->
 
 </br>
 <div align="center">
