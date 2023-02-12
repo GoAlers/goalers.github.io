@@ -6,14 +6,26 @@
 
 ## 🆙作者主页
 
-* [CSDN](https://blog.csdn.net/qq_36816848)
-* [个人主页](http://www.gaohongwei.cn)
-* [Github](https://github.com/GoAlers)
-* [知乎](https://www.zhihu.com/people/GoAI)
-* 公众号 : GoAI的学习小屋 
--- 【学习交流或商业合作可扫码填加作者微信】
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
 
-> *📝笔记在线阅读地址*：[https://goalers.github.io/#/](https://goalers.github.io/#/)
+</br>
+<div align="center">
+  <a href="https://blog.csdn.net/qq_36816848"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp; 
+  <a href="https://github.com/GoAlers"><img src="https://img.shields.io/badge/GoAlers-Github-orange" /></a>&emsp;
+  <a href="https://aistudio.baidu.com/aistudio/personalcenter/thirdview/703719"><img src="https://img.shields.io/badge/AI-百度飞桨-blue" /></a>&emsp;
+  <a href="http://www.gaohongwei.cn"><img src="https://img.shields.io/badge/Resume-简历-purple"></a>&emsp; 
+  <a href="https://www.zhihu.com/people/GoAI/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-yellow"></a>&emsp;
+  <a href="https://goalers.github.io/#/"><img src="https://img.shields.io/badge/GoAI-学习主页-purple"></a>&emsp;
+  <a href="https://www.cbedai.net/goai"><img src="https://img.shields.io/badge/AI-学习网站-green" /></a>&emsp;
+ <!--- <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;  -->
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GoAlers" alt="访客统计" /></div>
+</br>
+
+
+> *📝最新笔记更新链接*：https://blog.csdn.net/qq_36816848
+
+* 公众号 : GoAI的学习小屋 【学习交流或商业合作可扫码填加作者微信】
 
 ![图片](./md/2.jpg)
 
