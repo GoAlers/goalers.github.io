@@ -1,13 +1,20 @@
 # GoAI的学习小屋
 
-> 🌐**主页简介：本站主要分享自己学习过程中遇到的优秀资料，内容为大数据与人工智能方向，具体总结内容可通过目录访问，欢迎各位大佬交流指点。**
+> 🌐**网站简介：本站主要分享大数据与人工智能方向开源知识，具体总结内容可通过目录访问，欢迎各位大佬交流指点。**
 
-> ✨写在前面：强烈推荐给大家一个优秀的人工智能学习网站，内容包括人工智能基础、机器学习、深度学习神经网络等，详细介绍各部分概念及实战教程，非常适合人工智能领域初学者及研究者学习。➡️[点击跳转到网站](https://www.cbedai.net/goai "AI")。
+> 👨‍💻<font color="#7B68EE">**作者简介：** </font>大数据专业硕士在读，CSDN人工智能领域博客专家，阿里云专家博主，专注大数据与人工智能知识分享。<font color="#ED700">**公众号：**</font> GoAI的学习小屋，免费分享书籍、简历、导图等资料，更有交流群分享AI和大数据，加群方式公众号回复“加群”或➡️[点击链接](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
+
+> 🎉<font color="#00dd00">**博主专栏推荐：** </font>计算机视觉CV专栏：会更新不限于深度学习、OCR、目标检测、图像分类、图像分割等方向，目前活动打折仅29.9，虽然付费但会长期更新且价格便宜，。➡️[专栏地址](https://blog.csdn.net/qq_36816848/category_11641419.html)
+
+> 🎉<font color="#1E90FF">**学习者福利：**</font> 强烈推荐一个优秀AI学习网站，包括机器学习、深度学习等理论与实战教程，非常适合AI学习者。➡️[网站链接](https://www.cbedai.net/goai)。
+
+> ✨<font color="#FFD700">**技术控福利：**</font> 程序员兼职社区招募！技术范围广，CV、NLP方向均可，要求有一定基础，最好是研究生及以上或有工作经验，欢迎大佬加入！群内Python、c++、Matlab等各类编程语言单应有尽有, 资源靠谱、费用自谈，有意向者直接➡️[访问](https://doc.weixin.qq.com/sheet/e3_AbEADgZXANESk3HUThAQ0u6WSAV04?scode=AMcAFgfjAAYS3RQ2CIAbEADgZXANE&tab=upwjhg)。
+
 
 ## 🆙作者主页
 
 ![图片](./md/ide.png)
-
+ > *📝注：最新学习博客 |笔记会更新在下方CSDN博客链接*：https://blog.csdn.net/qq_36816848
  <!--- <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>-->
 
 </br>
@@ -25,9 +32,16 @@
 </br>
 
 
-> *📝最新笔记更新链接*：https://blog.csdn.net/qq_36816848
+
 
 * 公众号 : GoAI的学习小屋 【学习交流或商业合作可扫码填加作者微信】
+
+![图片](./md/2.jpg)
+
+
+* QQ交流群 : GoAI的学习小屋 
+
+
 
 ![图片](./md/2.jpg)
 
