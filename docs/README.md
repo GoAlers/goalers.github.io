@@ -2,11 +2,13 @@
 
 > 🌐**网站简介：本站主要分享大数据与人工智能方向开源知识，具体总结内容可通过目录访问，欢迎各位大佬交流指点。**
 
-> 👨‍💻<font color="#7B68EE">**作者简介：** </font>大数据专业硕士在读，CSDN人工智能领域博客专家，阿里云专家博主，专注大数据与人工智能知识分享。<font color="#ED700">**公众号：**</font> GoAI的学习小屋，免费分享书籍、简历、导图等资料，更有交流群分享AI和大数据，加群方式公众号回复“加群”或➡️[点击链接](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
+> 👨‍💻<font color="#7B68EE">**作者简介：** </font>大数据专业硕士在读，CSDN人工智能领域博客专家、阿里云社区专家博主、百度飞桨PPDE、飞桨校领航团团长、飞桨开源特训营导师、CSDN新星计划计算机视觉方向导师、人工智能赛道Top5、内容合伙人，曾获科大讯飞top10及竞赛奖项若干。<font color="#ED700">
+ 
+>💚**公众号：**</font> GoAI的学习小屋，免费分享总结、书籍、简历、导图、面经等，更有qq交流群免费分享宝藏资料，加群方式公众号回复“加群”或➡️[点击链接](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
 
 > 🎉<font color="#00dd00">**博主专栏推荐：** </font>计算机视觉CV专栏：会更新不限于深度学习、OCR、目标检测、图像分类、图像分割等方向，目前活动打折仅29.9，虽然付费但会长期更新且价格便宜，。➡️[专栏地址](https://blog.csdn.net/qq_36816848/category_11641419.html)
 
-> 🎉<font color="#1E90FF">**学习者福利：**</font> 强烈推荐一个优秀AI学习网站，包括机器学习、深度学习等理论与实战教程，非常适合AI学习者。➡️[网站链接](https://www.cbedai.net/goai)。
+> ✨<font color="#1E90FF">**学习者福利：**</font> 强烈推荐一个优秀AI学习网站，包括机器学习、深度学习等理论与实战教程，非常适合AI学习者。➡️[网站链接](https://www.cbedai.net/goai)。
 
 > ✨<font color="#FFD700">**技术控福利：**</font> 程序员兼职社区招募！技术范围广，CV、NLP方向均可，要求有一定基础，最好是研究生及以上或有工作经验，欢迎大佬加入！群内Python、c++、Matlab等各类编程语言单应有尽有, 资源靠谱、费用自谈，有意向者直接➡️[访问](https://doc.weixin.qq.com/sheet/e3_AbEADgZXANESk3HUThAQ0u6WSAV04?scode=AMcAFgfjAAYS3RQ2CIAbEADgZXANE&tab=upwjhg)。
 
