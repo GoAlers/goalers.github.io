@@ -4,13 +4,13 @@
 
 > 👨‍💻<font color="#7B68EE">**作者简介：** </font>大数据专业硕士在读，CSDN人工智能领域博客专家、阿里云社区专家博主、百度飞桨PPDE、飞桨校领航团团长、飞桨开源特训营导师、CSDN新星计划计算机视觉方向导师、人工智能赛道Top5、内容合伙人，曾获科大讯飞top10及竞赛奖项若干。<font color="#ED700">
  
->💚**公众号：**</font> GoAI的学习小屋，免费分享总结、书籍、简历、导图、面经等，更有qq交流群免费分享宝藏资料，加群方式公众号回复“加群”或➡️[点击链接](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
+>💚**公众号：**</font> GoAI的学习小屋，免费分享总结、书籍、简历、导图、面经等，更有qq交流群免费分享宝藏资料，加群方式公众号回复“加群”或➡️[**点击链接**](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
 
-> 🎉<font color="#00dd00">**博主专栏推荐：** </font>计算机视觉CV专栏：会更新不限于深度学习、OCR、目标检测、图像分类、图像分割等方向，目前活动打折仅29.9，虽然付费但会长期更新且价格便宜，。➡️[专栏地址](https://blog.csdn.net/qq_36816848/category_11641419.html)
+> 🎉<font color="#00dd00">**专栏推荐：** </font>➡️ **[《计算机视觉》](https://blog.csdn.net/qq_36816848/category_11641419.html)** 总结目标检测、图像分类、分割OCR、等方向资料。 ➡️ **[《深入浅出OCR》](http://t.csdn.cn/vISpP):**  对标全网最全OCR教程，含理论与实战总结。以上价格便宜长期更新，感兴趣小伙伴可关注。
 
-> ✨<font color="#1E90FF">**学习者福利：**</font> 强烈推荐一个优秀AI学习网站，包括机器学习、深度学习等理论与实战教程，非常适合AI学习者。➡️[网站链接](https://www.cbedai.net/goai)。
+> ✨<font color="#1E90FF">**学习者福利：**</font> 强烈推荐优秀AI学习网站，包括机器学习、深度学习等理论与实战教程，非常适合AI学习者。➡️[**网站链接**](https://www.cbedai.net/goai)。
 
-> ✨<font color="#FFD700">**技术控福利：**</font> 程序员兼职社区招募！技术范围广，CV、NLP方向均可，要求有一定基础，最好是研究生及以上或有工作经验，欢迎大佬加入！群内Python、c++、Matlab等各类编程语言单应有尽有, 资源靠谱、费用自谈，有意向者直接➡️[访问](https://doc.weixin.qq.com/sheet/e3_AbEADgZXANESk3HUThAQ0u6WSAV04?scode=AMcAFgfjAAYS3RQ2CIAbEADgZXANE&tab=upwjhg)。
+> 👏<font color="#FFD700">**技术控福利：**</font> 程序员兼职社区招募！技术范围广，CV、NLP均可，要求有一定基础，最好是研究生及以上或有工作经验，也欢迎有能力本科大佬加入！群内Python、c++、Matlab等各类编程单应有尽有, 资源靠谱、费用自谈，有意向者直接访问➡️[**链接**](https://doc.weixin.qq.com/sheet/e3_AbEADgZXANESk3HUThAQ0u6WSAV04?scode=AMcAFgfjAAYS3RQ2CIAbEADgZXANE&tab=upwjhg)。
 
 
 ## 🆙作者主页
@@ -38,36 +38,60 @@
 
 * 公众号 : GoAI的学习小屋 【学习交流或商业合作可扫码填加作者微信】
 
-![图片](./md/2.jpg)
+<p align="center">
+ <img src="./md/2.jpg"> </p>
+
+* QQ交流群 : GoAI的学习小屋  ➡️[点击链接加群](https://qm.qq.com/cgi-bin/qm/qr?k=YksJ4zWlaOo_ya7Ey_cpjfbgGxJtQLIZ&jump_from=webapi&authKey=ub6O4L4nqKep8KVTv3pkx%20x18IeIgDuUgKvOL/Wwq2utRODmWnZcxoo8rGHcHnIB)。
 
 
-* QQ交流群 : GoAI的学习小屋 
+<p align="center">
+ <img src="./md/GoAI的学习小屋群聊二维码.png"> </p>
 
+# 🎉学习资料目录
 
-
-![图片](./md/2.jpg)
-
-## 🎉学习资料目录
-
-### 1.大数据
-
-* [大数据开发笔记](https://blog.csdn.net/qq_36816848/article/details/113767367)
-* [Hadoop系列综合](https://blog.csdn.net/qq_36816848/category_10847000.html)
-
-* [大数据项目实战](https://blog.csdn.net/qq_36816848/category_11274508.html)
-* [数据分析与挖掘](https://blog.csdn.net/qq_36816848/category_10976756.html)
-
-### 2.深度学习
+## 1.深度学习
 
 * [机器学习资料](https://blog.csdn.net/qq_36816848/category_10846122.html)
 * [深度学习笔记](https://blog.csdn.net/qq_36816848/category_11053032.html)
 * [深度资料合集](https://blog.csdn.net/qq_36816848/article/details/125829496)
 * [Pytorch系列](https://blog.csdn.net/qq_36816848/category_11477132.html)
-* [Opencv系列](https://blog.csdn.net/qq_36816848/article/details/123805173)
 * [计算机视觉模型](md/cv.md)
 * [深度学习网络模型](md/model.md)
 
-### 3.文字识别
+## 2.计算机视觉
+
+* [Opencv系列](https://blog.csdn.net/qq_36816848/article/details/123805173)
+* [计算机视觉模型](md/cv.md)
+
+
+###  <font color="#7B68EE"> 计算机视觉论文总结系列：
+
+> 1️⃣[计算机视觉论文总结系列（一）：目标检测篇](http://t.csdn.cn/Im8zn)
+> 
+> 2️⃣[计算机视觉论文总结系列（二）：图像分割篇](http://t.csdn.cn/Wzx3L)
+> 
+> 3️⃣[计算机视觉论文总结系列（三）：OCR篇](https://blog.csdn.net/qq_36816848/article/details/130147440) 
+
+###   <font color="#7B68EE"> 计算机视觉竞赛总结系列：
+
+> 1️⃣[计算机视觉竞赛总结系列（一）：目标检测篇](https://blog.csdn.net/qq_36816848/article/details/129407563)
+> 
+> 2️⃣[计算机视觉竞赛总结系列（二）：图像分割篇](https://blog.csdn.net/qq_36816848/article/details/129763001)
+> 
+> 3️⃣[计算机视觉竞赛总结系列（三）：OCR篇](https://blog.csdn.net/qq_36816848/article/details/130100877) 
+
+### **注意力机制详解系列目录：**
+>  1️⃣[注意力机制详解系列（一）：注意力机制概述](https://blog.csdn.net/qq_36816848/article/details/129206299)
+> 
+> 2️⃣[注意力机制详解系列（二）：通道注意力机制](https://blog.csdn.net/qq_36816848/article/details/129206184)
+> 
+> 3️⃣[注意力机制详解系列（三）：空间注意力机制](https://blog.csdn.net/qq_36816848/article/details/129207369)
+> 
+>  4️⃣[注意力机制详解系列（四）：混合注意力机制](https://blog.csdn.net/qq_36816848/article/details/129207419)
+> 
+> 5️⃣[注意力机制详解系列（五）：分支与时间注意力机制](https://blog.csdn.net/qq_36816848/article/details/129288326)
+
+## 3.OCR
 
 * [OCR文字识别技术系列第一章](https://blog.csdn.net/qq_36816848/article/details/12390856)
 * [OCR文字识别技术系列第二章](https://blog.csdn.net/qq_36816848/article/details/12394341)
@@ -80,15 +104,39 @@
 * [Attention](https://blog.csdn.net/qq_36816848/article/details/122743693)
 * [Transformer](https://blog.csdn.net/qq_36816848/article/details/123177970)
 
-### 4.推荐系统
+## 4.大数据
+
+* [大数据开发笔记](https://blog.csdn.net/qq_36816848/article/details/113767367)
+* [Hadoop系列综合](https://blog.csdn.net/qq_36816848/category_10847000.html)
+
+* [大数据项目实战](https://blog.csdn.net/qq_36816848/category_11274508.html)
+* [数据分析与挖掘](https://blog.csdn.net/qq_36816848/category_10976756.html)
+
+
+## 5.推荐系统
 
 * [推荐算法理论](https://blog.csdn.net/qq_36816848/category_10770781.html)
 * [深度学习推荐模型](https://blog.csdn.net/qq_36816848/category_10770781.html)
 * [音乐推荐系统项目](https://blog.csdn.net/qq_36816848/article/details/108383078)
 * [新闻推荐系统合集](https://blog.csdn.net/qq_36816848/article/details/121941803)
 
-### 5.入门系列
+# 入门系列
 
+* *零基础入门深度学习系列：*
+
+> [>零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
+>
+> [零基础入门深度学习(2) - 线性单元和梯度下降](https://www.zybuluo.com/hanbingtao/note/448086)
+>
+> [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663)
+>
+> [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480)
+>
+> [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)
+>
+> [零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)
+>
+> [零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 
 
 * *大数据入门笔记系列：*
@@ -127,18 +175,4 @@
 >
 > [大数据常见运维问题汇总](https://blog.csdn.net/qq_36816848/article/details/114897825)
 
-* *零基础入门深度学习系列：*
 
-> [零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
->
-> [零基础入门深度学习(2) - 线性单元和梯度下降](https://www.zybuluo.com/hanbingtao/note/448086)
->
-> [零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663)
->
-> [零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480)
->
-> [零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)
->
-> [零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)
->
-> [零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
